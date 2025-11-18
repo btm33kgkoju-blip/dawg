@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <header>
+        <h1>Navigational Links</h1>
+         <nav>
+           <ul>
+             <li> <a href="#home">Home</a></li>
+             <li> <a href="#posts">Posts</a></li>
+             <li> <a href="#contacts">Contacts</a></li>
+           </ul>
+         </nav>
+      </header>
+    <main>
+      <section>
+        <h2>Facts about dogs</h2>
+         <p>
+             Dogs are very loyal creatures belonging to the wolf family.Dogs have a sense of sound 
+           but they don't have the "concept" of time.Unlike humans dogs don't have an ability to
+           create measures of time like seconds, minutes, hours, days, etc.So,telling them that,
+           "I'll be back in 15 minutes" wouldn't help much but we think that we need to do it.
+           Dogs are capable of being trained based on previous events.
+         </p>
+      </section>
+    </main>  
+        <figure>
+          <img src="https://uploads.onecompiler.io/442z42qn9/4452d9trd/dog_lol-removebg-preview.png"
+          <centre><h5><figcaptions>A cute doggy</figcaptions></h5></centre>
+        </figure>
+    <main>
+      <section>
+        <h2>History of Dogs</h2>
+         <p>
+            Dogs came from grey wolves, a process of domestication developed about 20,000 and 40,000 
+          years ago.Early domestication was most likely unconcious;"proto-domestication" which were 
+          likely driven by some scavengigng wolves that came near human settlement.This led them to be 
+          split from their wolf herds before the modern agriculture. Over thousands of years the split 
+          lineage developed in living with humans and their evolution developed within an intensional and 
+          unintensional brredin with two species of dogs.
+       </p>
+      </section>
+    </main>  
+  </body>
+</html>
